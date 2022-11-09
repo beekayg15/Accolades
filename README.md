@@ -95,13 +95,13 @@ Contains Accolades and Certifications
       <td>1</td>
       <td><a href="https://www.hackerrank.com/certificates/e70088ada2c4">Problem Solving (Basic)</a></td>
       <td>Hackerrank</td>
-      <td>15 September 2020</td>
+      <td>15 Sept 2020</td>
     </tr>
      <tr>
       <td>2</td>
       <td><a href="https://www.hackerrank.com/certificates/d0ed1c2ed612">Problem Solving (Intermediate)</a></td>
       <td>Basic</td>
-      <td>15 Sep 2020</td>
+      <td>15 Sept 2020</td>
     </tr>
     <tr>
       <td>3</td>
