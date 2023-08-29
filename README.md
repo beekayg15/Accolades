@@ -235,3 +235,39 @@ Contains Accolades and Certifications
     </tr>
   </tbody>
 <table>
+
+---
+  
+## Academics
+<table>
+  <thead>
+    <th>S.No</th>
+    <th>Paper Name</th>
+    <th>Year</th>
+    <th>Journal</th>
+    <th>Conference</th>
+    <th>Certificate</th>
+    <th>Paper Link</th>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td>1</td>
+      <td>Unified Parsing Script Using Machine Learning</td>
+      <td>2023</td>
+      <td>IEEE</td>
+      <td>International Symposium on Artificial Intelligence and Signal Processing (AISP)</td>
+      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/Publications/Unified%20Parsing%20Script%20using%20Machine%20Learning.pdf">🔗</a></td>
+      <td><a href="https://ieeexplore.ieee.org/document/10134967">🔗</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Offload Decision Making For Web Applications</td>
+      <td>2023</td>
+      <td>IEEE</td>
+      <td>2023 International Conference on Intelligent Systems for Communication, IoT and Security (ICISCoIS)</td>
+      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/Publications/Unified%20Parsing%20Script%20using%20Machine%20Learning.pdf">🔗</a></td>
+      <td><a href="https://ieeexplore.ieee.org/document/10100419">🔗</a></td>
+    </tr>
+  </tbody>
+<table>
+
