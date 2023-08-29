@@ -235,10 +235,29 @@ Contains Accolades and Certifications
     </tr>
   </tbody>
 <table>
+  
+<table>
+  <thead>
+    <th>S.No</th>
+    <th>Award</th>
+    <th>Year</th>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td>1</td>
+      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/PSG/BOGS.png">Best Outgoing Student</a></td>
+      <td>2023</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/PSG/Department%20Rank%20Holder.png">Gold Medalist</a></td>
+      <td>2023</td>
+    </tr>
+<table>
 
 ---
   
-## Academics
+## Publications
 <table>
   <thead>
     <th>S.No</th>
