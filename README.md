@@ -15,7 +15,7 @@ Contains Accolades and Certifications
   <tbody align="center">
     <tr>
       <td>1</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/KCT%20Yugam/Codeathon%202021.pdf">Codeathon</a></td>
+      <td><a href="https://github.com/beekayg15/Accolades/blob/main/KCT%20Yugam/Codeathon%202021.pdf">Codeathon</a></td>
       <td>2021</td>
       <td>Winner</td>
       <td>300+</td>
@@ -23,7 +23,7 @@ Contains Accolades and Certifications
     </tr>
     <tr>
       <td>2</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/KCT%20Yugam/Technical%20Treasure%20Trailing%202021.pdf">Technical Treasure Trailing</a></td>
+      <td><a href="https://github.com/beekayg15/Accolades/blob/main/KCT%20Yugam/Technical%20Treasure%20Trailing%202021.pdf">Technical Treasure Trailing</a></td>
       <td>2021</td>
       <td>Winner</td>
       <td>180+</td>
@@ -31,7 +31,7 @@ Contains Accolades and Certifications
     </tr>
     <tr>
       <td>3</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/PSG%20iTech%20Yuktaha/Kryptoz%20Reckon%202021.pdf">Kryptoz Reckon</a></td>
+      <td><a href="https://github.com/beekayg15/Accolades/blob/main/PSG%20iTech%20Yuktaha/Kryptoz%20Reckon%202021.pdf">Kryptoz Reckon</a></td>
       <td>2021</td>
       <td>Winner</td>
       <td>50+</td>
@@ -39,7 +39,7 @@ Contains Accolades and Certifications
     </tr>
     <tr>
       <td>4</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/PSG%20iTech%20Yuktaha/Code%20Royale%202021.pdf">Code Royale</a></td>
+      <td><a href="https://github.com/beekayg15/Accolades/blob/main/PSG%20iTech%20Yuktaha/Code%20Royale%202021.pdf">Code Royale</a></td>
       <td>2021</td>
       <td>Winner</td>
       <td>75+</td>
@@ -47,7 +47,7 @@ Contains Accolades and Certifications
     </tr>
     <tr>
       <td>5</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/PSG%20Tech%20Kriya/Codefeast%202021.jpg">Code Feast</a></td>
+      <td><a href="https://github.com/beekayg15/Accolades/blob/main/PSG%20Tech%20Kriya/Codefeast%202021.jpg">Code Feast</a></td>
       <td>2021</td>
       <td>Winner</td>
       <td>200+</td>
@@ -71,7 +71,7 @@ Contains Accolades and Certifications
   <tbody align="center">
      <tr>
       <td>1</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/HACK%202K21%20IIIT/Certificate_Barath_Kumar_G_Second_Place_Front_End_Development.pdf">Hackathon 2k21</a></td>
+      <td><a href="https://github.com/beekayg15/Accolades/blob/main/HACK%202K21%20IIIT/Certificate_Barath_Kumar_G_Second_Place_Front_End_Development.pdf">Hackathon 2k21</a></td>
       <td>2021</td>
       <td>Runner Up</td>
       <td>1600+</td>
@@ -126,49 +126,49 @@ Contains Accolades and Certifications
   <tbody align="center">
     <tr>
       <td>1</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/Google%20KS/Google%20KS%202020.pdf">Kick Start Round - C</a></td>
+      <td><a href="https://github.com/beekayg15/Accolades/blob/main/Google%20KS/Google%20KS%202020.pdf">Kick Start Round - C</a></td>
       <td>9437</td>
       <td>2020</td>
     </tr>
      <tr>
       <td>2</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/Google%20KS/Google%20KS%202020.pdf">Kick Start Round - D</a></td>
+      <td><a href="https://github.com/beekayg15/Accolades/blob/main/Google%20KS/Google%20KS%202020.pdf">Kick Start Round - D</a></td>
       <td>2335</td>
        <td>2020</td>
     </tr>
     <tr>
       <td>3</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/Google%20KS/Google%20KS%202020.pdf">Kick Start Round - E</a></td>
+      <td><a href="https://github.com/beekayg15/Accolades/blob/main/Google%20KS/Google%20KS%202020.pdf">Kick Start Round - E</a></td>
       <td>6710</td>
       <td>2020</td>
     </tr>
     <tr>
       <td>4</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/Google%20KS/Google%20KS%202021.pdf">Kick Start Round - A</a></td>
+      <td><a href="https://github.com/beekayg15/Accolades/blob/main/Google%20KS/Google%20KS%202021.pdf">Kick Start Round - A</a></td>
       <td>1673</td>
       <td>2021</td>
     </tr>
      <tr>
       <td>5</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/Google%20KS/Google%20KS%202021.pdf">Kick Start Round - C</a></td>
+      <td><a href="https://github.com/beekayg15/Accolades/blob/main/Google%20KS/Google%20KS%202021.pdf">Kick Start Round - C</a></td>
       <td>2088</td>
        <td>2021</td>
     </tr>
     <tr>
       <td>6</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/Google%20KS/Google%20KS%202022.pdf">Kick Start Round - D</a></td>
+      <td><a href="https://github.com/beekayg15/Accolades/blob/main/Google%20KS/Google%20KS%202022.pdf">Kick Start Round - D</a></td>
       <td>2233</td>
       <td>2022</td>
     </tr>
     <tr>
       <td>7</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/Google%20KS/Google%20HC%202021.pdf">Hash Code</a></td>
+      <td><a href="https://github.com/beekayg15/Accolades/blob/main/Google%20KS/Google%20HC%202021.pdf">Hash Code</a></td>
       <td>877</td>
       <td>2021</td>
     </tr>
     <tr>
       <td>8</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/Google%20KS/Google%20HC%202022.pdf">Hash Code</a></td>
+      <td><a href="https://github.com/beekayg15/Accolades/blob/main/Google%20KS/Google%20HC%202022.pdf">Hash Code</a></td>
       <td>1949</td>
       <td>2022</td>
     </tr>
@@ -211,25 +211,25 @@ Contains Accolades and Certifications
   <tbody align="center">
     <tr>
       <td>1</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/CSEA/BARATH_KUMAR_3_1.jpg">Semester 3</a></td>
+      <td><a href="https://github.com/beekayg15/Accolades/blob/main/CSEA/BARATH_KUMAR_3_1.jpg">Semester 3</a></td>
       <td>2020</td>
       <td>1</td>
     </tr>
     <tr>
       <td>2</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/CSEA/BARATH_KUMAR_4_1.jpg">Semester 4</a></td>
+      <td><a href="https://github.com/beekayg15/Accolades/blob/main/CSEA/BARATH_KUMAR_4_1.jpg">Semester 4</a></td>
       <td>2021</td>
       <td>1</td>
     </tr>
     <tr>
       <td>3</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/CSEA/BARATH_KUMAR_3_1.jpg">Semester 5</a></td>
+      <td><a href="https://github.com/beekayg15/Accolades/blob/main/CSEA/BARATH_KUMAR_3_1.jpg">Semester 5</a></td>
       <td>2021</td>
       <td>2</td>
     </tr>
     <tr>
       <td>4</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/CSEA/BARATH_KUMAR_4_1.jpg">Semester 6</a></td>
+      <td><a href="https://github.com/beekayg15/Accolades/blob/main/CSEA/BARATH_KUMAR_4_1.jpg">Semester 6</a></td>
       <td>2022</td>
       <td>1</td>
     </tr>
@@ -245,12 +245,12 @@ Contains Accolades and Certifications
   <tbody align="center">
     <tr>
       <td>1</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/PSG/BOGS.png">Best Outgoing Student</a></td>
+      <td><a href="https://github.com/beekayg15/Accolades/blob/main/PSG/BOGS.png">Best Outgoing Student</a></td>
       <td>2023</td>
     </tr>
     <tr>
       <td>2</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/PSG/Department%20Rank%20Holder.png">Gold Medalist</a></td>
+      <td><a href="https://github.com/beekayg15/Accolades/blob/main/PSG/Department%20Rank%20Holder.png">Gold Medalist</a></td>
       <td>2023</td>
     </tr>
 <table>
@@ -275,7 +275,7 @@ Contains Accolades and Certifications
       <td>2023</td>
       <td>IEEE</td>
       <td>International Symposium on Artificial Intelligence and Signal Processing (AISP)</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/Publications/Unified%20Parsing%20Script%20using%20Machine%20Learning.pdf">🔗</a></td>
+      <td><a href="https://github.com/beekayg15/Accolades/blob/main/Publications/Unified%20Parsing%20Script%20using%20Machine%20Learning.pdf">🔗</a></td>
       <td><a href="https://ieeexplore.ieee.org/document/10134967">🔗</a></td>
     </tr>
     <tr>
@@ -284,7 +284,7 @@ Contains Accolades and Certifications
       <td>2023</td>
       <td>IEEE</td>
       <td>2023 International Conference on Intelligent Systems for Communication, IoT and Security (ICISCoIS)</td>
-      <td><a href="https://github.com/BarathKumarBK-15/Accolades/blob/main/Publications/Unified%20Parsing%20Script%20using%20Machine%20Learning.pdf">🔗</a></td>
+      <td><a href="https://beekayg15/Accolades/blob/main/Publications/Unified%20Parsing%20Script%20using%20Machine%20Learning.pdf">🔗</a></td>
       <td><a href="https://ieeexplore.ieee.org/document/10100419">🔗</a></td>
     </tr>
   </tbody>
